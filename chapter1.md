@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Local Outlier Factor (LOF) for anomaly detection'
+description: 'In this chapter, we will explore the use of Local Outlier Factor (LOF) for detection, calculate LOF scores, and visualize them. '
 free_preview: true
 ---
 
@@ -41,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Visualizing LOF Scores
+
+```yaml
+type: VideoExercise
+key: 92f6ccf829
+xp: 50
+```
+
+`@projector_key`
+29d3c8842a2de2c8d14b9bbc23104ad5
